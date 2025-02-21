@@ -1,5 +1,5 @@
 ### Hi there 👋, Kazım Sahin
-#### Software Test Automation Engineer
+#### Software QA Tester
 
 Skills: Java / Selenium / Playwright / TestNG / Junit
 
