@@ -1,7 +1,7 @@
 ### Hi there 👋, Kazım Sahin
 #### Software QA Tester
 
-Skills: Java / Selenium / Playwright / TestNG / Junit
+Skills: Java & TypeScript & Python / Selenium & Playwright / TestNG & Junit & Cucumber
 
 
 
